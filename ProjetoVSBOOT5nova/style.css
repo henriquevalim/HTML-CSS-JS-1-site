@@ -1,0 +1,56 @@
+
+#logo{
+    width: 500px
+
+}
+.textoCima{
+    color:orangered;
+    padding: 0px;
+}
+#saude{
+    width: 600px;
+}
+h5{
+    font-weight: bold;
+    margin-bottom: 10px !important;
+}
+.textoColuna{
+    color:yellow;
+}
+.textoColuna2{
+    color:lightgray;
+}
+.facebook-share-button{
+    display: inline-block;            
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    background-size: 100% 100%;
+    background-image: url("img/fb.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.twitter-share-button{
+    display: inline-block;            
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    background-size: 100% 100%;
+    background-image: url("img/tt.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.instagram-share-button{
+    display: inline-block;            
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    background-size: 100% 100%;
+    background-image: url("img/insta.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h6{
+    margin-bottom: 10px !important;
+}
